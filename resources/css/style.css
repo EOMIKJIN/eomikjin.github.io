@@ -825,6 +825,12 @@
   }
 }
 /* temhafull2-N3 */
+:root {
+  --width-mmkrfgjq: 585px;
+  --height-mmkrfgjq: 585px;
+  --padding-top-mmkrfgjq: 8rem
+}
+
 .temhafull2-N3 {
   position: relative;
   overflow: hidden
